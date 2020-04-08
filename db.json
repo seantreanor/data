@@ -1,8 +1,12 @@
 {
-    "title": "2017 M3 Competition Pack",
-    "description": "This is the description for the 2017 M3 competition Pack",
-    "price": "2250",
-    "sale_price": "2000",
-    "images": ["https://www.rkingscompetitions.com/uploads/images/afc270f0-f440-4d02-99f0-25199326c93a.jpeg", "https://www.rkingscompetitions.com/uploads/images/4a77afcf-e088-4327-8e7d-a8df3160f386.jpeg"],
-    "max_entries": "1695"
+    "competitions": [
+        {
+            "title": "2017 M3 Competition Pack",
+            "description": "This is the description for the 2017 M3 competition Pack",
+            "price": "2250",
+            "sale_price": "2000",
+            "images": ["https://www.rkingscompetitions.com/uploads/images/afc270f0-f440-4d02-99f0-25199326c93a.jpeg", "https://www.rkingscompetitions.com/uploads/images/4a77afcf-e088-4327-8e7d-a8df3160f386.jpeg"],
+            "max_entries": "1695"
+        }
+    ]
 }
