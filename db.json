@@ -8,6 +8,15 @@
             "sale_price": "2000",
             "images": ["https://www.rkingscompetitions.com/uploads/images/afc270f0-f440-4d02-99f0-25199326c93a.jpeg", "https://www.rkingscompetitions.com/uploads/images/4a77afcf-e088-4327-8e7d-a8df3160f386.jpeg"],
             "max_entries": "1695"
+        },
+        {
+            "id": 123,
+            "title": "Range Rover Evoque Pure SD4 with £1500",
+            "description": "This is the description for the Range Rover Evoque Pure SD4 with £1500",
+            "price": "2000",
+            "sale_price": "1800",
+            "images": ["https://www.rkingscompetitions.com/uploads/images/2dd9cf8e-9804-487f-9e8a-c329e0bfc429.jpeg"],
+            "max_entries": "1695"
         }
     ]
 }
