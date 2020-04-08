@@ -1,6 +1,7 @@
 {
     "competitions": [
         {
+            "id": 123,
             "title": "2017 M3 Competition Pack",
             "description": "This is the description for the 2017 M3 competition Pack",
             "price": "2250",
